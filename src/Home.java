@@ -6,5 +6,4 @@ public class Home {
 		
 		System.out.println("This is F2");
 	}
-
 }
